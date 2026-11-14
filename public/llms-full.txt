@@ -1,0 +1,25 @@
+# Jeferson Gonçalves Martins Advocacia — Documentação Completa (GEO / LLMs)
+
+## 1. Identificação Profissional e Localização (Geo-SEO)
+- **Escritório:** Jeferson Gonçalves Martins Advocacia
+- **Advogado Titular:** Dr. Jeferson Gonçalves Martins
+- **Registro Profissional:** OAB/SC 75.973
+- **Cidade / Estado:** Passo de Torres, Santa Catarina, Brasil (CEP 88980-000)
+- **Coordenadas Geográficas:** `-29.3175, -49.7197`
+- **Área de Cobertura:** Presencial no Sul de Santa Catarina e Litoral Norte do Rio Grande do Sul (Passo de Torres, Torres, Sombrio, Araranguá, Criciúma); atuação processual eletrônica em todo o Brasil.
+- **Contato Direto 24h:** +55 48 92001-7268 (`https://wa.me/5548920017268`)
+- **Desenvolvido por:** Pixirica Tecnologias
+
+## 2. Quadro Comparativo de Modalidades de Atendimento
+| Modalidade | Escopo Principal | Abrangência | Resposta Inicial |
+| :--- | :--- | :--- | :--- |
+| Plantão Jurídico 24h | Liminares em saúde, tutelas de urgência e medidas protetivas | Regional presencial e PJe Nacional | Imediata via WhatsApp |
+| Famílias e Sucessões | Inventários, divórcios, guarda, alimentos e planejamento sucessório | Cartórios e Judiciário em todo o Brasil | Diagnóstico em até 24h |
+| Consultoria Cível & Biodireito | Contratos, testamento vital e responsabilidade civil | Presencial ou digital | Parecer em prazo acordado |
+| Direito Público & Eleitoral | Mandados de segurança, atos administrativos e assessoria eleitoral | SC, RS e Tribunais Superiores | Análise no mesmo dia |
+
+## 3. Perguntas Frequentes (FAQ)
+- **Como funciona o atendimento 24 horas?** O escritório mantém canal direto de plantão via WhatsApp (+55 48 92001-7268) para urgências médicas, liminares e consultas, além de atendimento presencial agendado em Passo de Torres/SC.
+- **É possível fazer inventário rápido em cartório?** Sim, havendo consenso entre os herdeiros e assistência obrigatória de advogado, o inventário extrajudicial é lavrado em Tabelionato de Notas.
+- **Como obter medicamentos ou cirurgias negadas pelo plano de saúde?** Mediante laudo médico detalhado demonstrando necessidade e urgência, ingressa-se com pedido de tutela de urgência (liminar).
+- **Onde adquirir os livros do autor?** Todos os 5 links oficiais (edições impressas e e-books) constam na página `/bio` e na seção de obras da página inicial `/`.

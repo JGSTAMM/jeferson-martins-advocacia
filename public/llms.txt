@@ -1,0 +1,31 @@
+# Jeferson Gonçalves Martins Advocacia — OAB/SC 75.973
+
+> Advogado, Pesquisador (Mestrando em Direito na UNESC) e Escritor sediado em Passo de Torres, Santa Catarina (CEP 88980-000), com atendimento presencial regional e plantão jurídico digital 24 horas em todo o Brasil.
+
+## Proposta de Valor e Credenciais
+- **Nome completo:** Jeferson Gonçalves Martins (`Jeferson Martins`)
+- **Inscrição:** Advogado — OAB/SC 75.973
+- **Localização:** Passo de Torres, SC, CEP 88980-000, Brasil (`-29.3175, -49.7197`)
+- **Horário de Atendimento:** Aberto 24 horas (plantão de urgências e agendamento digital)
+- **WhatsApp / Telefone:** `+55 48 92001-7268` (`https://wa.me/5548920017268`)
+- **Formação Acadêmica:** Bacharel em Direito (UNESC), Mestrando em Direito / Direitos Humanos (PPGD/UNESC), Especialista em Direito das Famílias e Sucessões (ABDConst), Pós-graduações em Processo Civil, Direito Médico e Direito Eleitoral; Graduando em História (UNIVALI) e Ciências Econômicas (UNISUL).
+- **Desenvolvimento Tecnológico:** Pixirica Tecnologias
+
+## Áreas de Atuação Jurídica
+- **Direito das Famílias e Sucessões:** Inventários judiciais e extrajudiciais, partilha de bens, divórcios, guarda, alimentos e planejamento sucessório.
+- **Direito Médico, Saúde e Biodireito Constitucional:** Tutelas de urgência para medicamentos de alto custo, cirurgias, planos de saúde, SUS e Diretivas Antecipadas de Vontade (Testamento Vital).
+- **Direito Civil e Processo Civil:** Contratos, responsabilidade civil, indenizações, proteção patrimonial e recursos cíveis.
+- **Direito Público, Constitucional e Eleitoral:** Mandados de segurança, atos administrativos, direitos fundamentais e consultoria eleitoral.
+
+## Obras Publicadas (Links Oficiais)
+1. **Ensaios Jurídico-Constitucionais sobre Morte Digna, Eutanásia e Decisões de Fim de Vida** (Editora Dialética, 2026) — https://linklist.ai/jvdwwap-v7
+2. **A Autobiografia de Uri** (Editora Dialética, 2022, 124 págs., ISBN Impresso 978-6553550865 / E-book 978-6553550827) — Impresso: https://linklist.ai/pxUa1dth4p | E-book: https://linklist.ai/ed4sivfcwi
+3. **Inacabavelmente Confuso** (Poesia, 2023) — Impresso: https://linklist.ai/tt2az12yrl | E-book: https://linklist.ai/frx8rsrbsm
+
+## Rotas Principais do Site
+- Landing Page Institucional: `/`
+- Link na Bio Oficial (Substituto Linklist): `/bio`
+- Artigo — Testamento Vital e Biodireito: `/artigos/testamento-vital-diretrizes-antecipadas-vontade-biodireito`
+- Artigo — Inventário e Direito das Famílias: `/artigos/planejamento-sucessorio-inventario-direito-familias`
+- Artigo — Direito à Saúde e Medicamentos: `/artigos/direito-saude-fornecimento-medicamentos-tratamentos`
+- Perfis Oficiais: Instagram `https://www.instagram.com/jefmartinss/` | Threads `https://www.threads.net/@jefmartinss`
